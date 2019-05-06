@@ -29,6 +29,20 @@ CTRL+Z  # stops the current command, resume with fg in the foreground or bg in t
 ##############################################################################
 # FILE COMMANDS
 ##############################################################################
+grep   # поиск
+touch  # create file 
+rm     # remove
+mv     # move/rename
+cp     # copy (-r for directory)
+mkdir  # create directory
+
+pipe
+  stdin
+  stdout
+  |
+##############################################################################
+# FILE COMMANDS
+##############################################################################
 
 
 ls                            # lists your files in current directory, ls <dir> to print files in a specific directory
