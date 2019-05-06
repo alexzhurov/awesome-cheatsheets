@@ -27,7 +27,7 @@ CTRL+Z  # stops the current command, resume with fg in the foreground or bg in t
 !!      # repeats the last command
 
 ##############################################################################
-# FILE COMMANDS
+# COMMANDS
 ##############################################################################
 grep   # поиск
 touch  # create file 
@@ -40,6 +40,12 @@ pipe
   stdin
   stdout
   |
+history 10   # last 10 command 
+!229         # command from history
+
+history|grep [command name]
+C-r          # reverse-search
+
 ##############################################################################
 # FILE COMMANDS
 ##############################################################################
