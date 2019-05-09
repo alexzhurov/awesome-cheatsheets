@@ -5,7 +5,7 @@
 
 
 CTRL+B/F      # moves backward/forward one character
-ALT +B/F       # moves backward/forward one word
+ALT +B/F      # moves backward/forward one word
 CTRL+A/E      # move to beginning/end of line
 CTRL+W/ALT+D  # deletes prev/next word
 CTRL+U/K      # kills backward from point to the beginning/end of line
