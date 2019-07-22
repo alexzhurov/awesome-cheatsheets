@@ -1,5 +1,3 @@
-# Use underscores in URL pattern names rather than dashes.
-
 # :scroll: Django Cheat Sheet
 A cheat-sheet for creating web apps with the Django framework using the Python language. Most of the summaries and examples are based off [the official documentation](https://docs.djangoproject.com/en/2.0/) for Django v2.0.
 
@@ -46,9 +44,10 @@ Imports should be grouped in the following order:
 3. Third-party app imports.
 4. Imports from your apps.
 
-Use explicit relative imports.
-Avoid using import *
- 
+- Use explicit relative imports.
+- Avoid using import *
+- Use underscores in URL pattern names rather than dashes. 
+
 ## :blue_book: Creating a project
 - Navigate to main folder with `$ cd <folder>`
 - Create project with `$ django-admin startproject <project_name>`
