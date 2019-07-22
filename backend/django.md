@@ -24,7 +24,7 @@ A cheat-sheet for creating web apps with the Django framework using the Python l
 - Install django with `$ pipenv install django`
 - Install other package dependencies with `$ pipenv install <package_name>`
 
-## :triangular_ruler: Coding style
+## :triangular_ruler: Code style
 #### Making your code readable
 
 1. Avoid abbreviating variable names.
