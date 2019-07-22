@@ -5,7 +5,7 @@ A cheat-sheet for creating web apps with the Django framework using the Python l
 
 ## Sections
 - :snake: [Initializing pipenv](#snake-initializing-pipenv-optional) (optional)
-- :triangular_ruler: [Code style](#code-style)
+- :triangular_ruler: [Code style](#triangular_ruler-code-style)
     1. [Making your code readable](#Making-your-code-readable)
     2. [The word on imports](#The-word-on-imports)
 - :blue_book: [Creating a project](#blue_book-creating-a-project)
