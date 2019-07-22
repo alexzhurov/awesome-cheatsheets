@@ -25,7 +25,7 @@ A cheat-sheet for creating web apps with the Django framework using the Python l
 - Install other package dependencies with `$ pipenv install <package_name>`
 
 ## :triangular_ruler: Coding style
-##### Making your code readable
+#### Making your code readable
 
 1. Avoid abbreviating variable names.
 2. Write out your function argument names.
@@ -37,7 +37,7 @@ should not be necessary to read an entire function or method.
 
 TIP: Use Flake8 for Checking Code Quality.
 
-##### The word on imports
+#### The word on imports
 
 Imports should be grouped in the following order:
 
