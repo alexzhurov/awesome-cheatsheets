@@ -12,16 +12,16 @@ CTRL+U/K      # kills backward from point to the beginning/end of line
 CTRL+R/S      # searches backward/forward
 CTRL+J/M      # same as RETURN
 CTRL+P/N      # previous/next line in command history
-CTRL+O  # same as RETURN, then displays next line in history file
-CTRL+C  # halts the current command
-CTRL+D  # deletes one character backward or logs out of current session, similar to exit
-CTRL+G  # aborts the current editing command and ring the terminal bell
-CTRL+L  # clears screen and redisplay the line
-CTRL+T  # transposes two characters
-CTRL+V  # makes the next character typed verbatim
-CTRL+X  # lists the possible filename completions of the current word
-CTRL+Y  # retrieves (yank) last item killed
-CTRL+Z  # stops the current command, resume with fg in the foreground or bg in the background
+CTRL+O       # same as RETURN, then displays next line in history file
+CTRL+C       # halts the current command
+CTRL+D       # deletes one character backward or logs out of current session, similar to exit
+CTRL+G       # aborts the current editing command and ring the terminal bell
+CTRL+L       # clears screen and redisplay the line
+CTRL+T       # transposes two characters
+CTRL+V       # makes the next character typed verbatim
+CTRL+X       # lists the possible filename completions of the current word
+CTRL+Y       # retrieves (yank) last item killed
+CTRL+Z       # stops the current command, resume with fg in the foreground or bg in the background
 
 !!          # repeats the last command
 sudo !!     # repeats the last command with sudo
