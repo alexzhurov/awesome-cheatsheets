@@ -23,7 +23,9 @@ CTRL+X  # lists the possible filename completions of the current word
 CTRL+Y  # retrieves (yank) last item killed
 CTRL+Z  # stops the current command, resume with fg in the foreground or bg in the background
 
-!!      # repeats the last command
+!!          # repeats the last command
+sudo !!     # repeats the last command with sudo
+<comand> !$ # command with previous argument
 
 ##############################################################################
 # COMMANDS
